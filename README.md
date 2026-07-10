@@ -1,2 +1,0 @@
-# myboilerapp
-boilerplate app
